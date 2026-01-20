@@ -36,7 +36,7 @@ O código foi auditado para garantir carregamento instantâneo e nota máxima em
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/awje.git](https://github.com/SEU-USUARIO/awje.git)
+    git clone https://github.com/Awje00/Infraestrutura-de-TI.git
     ```
 2.  **Abra o projeto:**
     Basta abrir o arquivo `index.html` em qualquer navegador moderno.
